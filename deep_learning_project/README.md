@@ -1,8 +1,8 @@
-# Kaggle-Deep-Learning-Project
+# Overview
 
-Solving the task on  https://www.kaggle.com/wordsforthewise/lending-club/tasks with Deep Learning algorithms using Tensorflow and Keras. 
+Solving [this Kaggle task](https://www.kaggle.com/wordsforthewise/lending-club/tasks) with Deep Learning algorithms using Tensorflow and Keras. 
 
-**The other libraries that I used in this project are:**
+**Libraries:**
 
 Pandas
 Numpy
@@ -10,5 +10,4 @@ Matplotlib
 Seaborn
 Scikitlearn
 
-- Data files can be reached through the link https://www.kaggle.com/wordsforthewise/lending-club/ . I couldn't load them here since they are too big.
-- The Python version is 3.8.10
+[Data files](https://www.kaggle.com/wordsforthewise/lending-club/)
